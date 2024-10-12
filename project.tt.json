@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "./",
   "projectname": "taro-react-tailwind-vscode-template",
-  "appid": "testAppId",
+  "appid": "wx5a86c7acdfe7932a",
   "setting": {
     "es6": false,
     "minified": false
